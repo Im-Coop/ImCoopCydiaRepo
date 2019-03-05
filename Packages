@@ -1,28 +1,58 @@
-Package: com.supermamon.newpackage
+Package: me.alfhaily.adblockforyoutube
 Version: 2.0.0-1
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Maintainer: ImCoop <cooperstephen899@gmail.com>
+Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Filename: ./debs/me.alfhaily.adblockforyoutube.deb
+Description: Blocks all ads for YouTube
+Name: Adblock for YouTube
+Author: alfhaily
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
+
+Package: me.alfhaily.cercube
+Version: 2.0.0-1
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Maintainer: ImCoop <cooperstephen899@gmail.com>
+Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Filename: ./debs/me.alfhaily.cercube.deb
+Description: Addons for YouTube
+Name: Addons for YouTube
+Author: alfhaily
 
+
+Package: com.r333d.cylinder
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: ImCoop <cooperstephen899@gmail.com>
+Depends: firmware (>11.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.r333d.cylinder.deb
+Description: Sparkle up your home screen animations!
+Name: Cylinder
+Author: r333d
+
+
+Package: com.rthakrar.defaultplayer
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: ImCoop <cooperstephen899@gmail.com>
+Depends: firmware (>11.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.rthakrar.defaultplayer.deb
+Description: Change your iOS default music player!
+Name: DefaultPlayer
+Author: rthakrar
+
+
+Package: net.limneos.bioprotectxs
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: ImCoop <cooperstephen899@gmail.com>
+Depends: firmware (>11.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/net.limneos.bioprotectxs.deb
+Description: Use TouchID or FaceID to lock any app or folder!
+Name: BioProtect XS
+Author: limneos
